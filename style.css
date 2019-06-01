@@ -111,3 +111,18 @@ body {
   border-color: transparent;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
 }
+
+.nav-top .dropdown-menu {
+  box-shadow: 0px 6px 10px -1px lightgrey;
+  border: none;
+}
+
+.nav-top .dropdown-menu a {
+  font-size:14px;
+  color: #333;
+}
+
+.nav-top .dropdown-menu a:hover {
+  background: #acb8c0;
+}
+
